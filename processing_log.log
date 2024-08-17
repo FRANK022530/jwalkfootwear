@@ -1,0 +1,409 @@
+2024-08-16 14:22:04,051 - INFO - Script started.
+2024-08-16 14:22:04,053 - INFO - Processing file: json_data_1.txt
+2024-08-16 14:22:04,055 - INFO - Processing file: json_data_10.txt
+2024-08-16 14:22:04,057 - INFO - Processing file: json_data_100.txt
+2024-08-16 14:22:04,060 - INFO - Processing file: json_data_101.txt
+2024-08-16 14:22:04,062 - INFO - Processing file: json_data_102.txt
+2024-08-16 14:22:04,064 - INFO - Processing file: json_data_103.txt
+2024-08-16 14:22:04,065 - INFO - Processing file: json_data_104.txt
+2024-08-16 14:22:04,067 - INFO - Processing file: json_data_105.txt
+2024-08-16 14:22:04,069 - INFO - Processing file: json_data_106.txt
+2024-08-16 14:22:04,070 - INFO - Processing file: json_data_107.txt
+2024-08-16 14:22:04,072 - INFO - Processing file: json_data_108.txt
+2024-08-16 14:22:04,074 - INFO - Processing file: json_data_109.txt
+2024-08-16 14:22:04,076 - INFO - Processing file: json_data_11.txt
+2024-08-16 14:22:04,078 - INFO - Processing file: json_data_110.txt
+2024-08-16 14:22:04,080 - INFO - Processing file: json_data_111.txt
+2024-08-16 14:22:04,082 - INFO - Processing file: json_data_112.txt
+2024-08-16 14:22:04,084 - INFO - Processing file: json_data_113.txt
+2024-08-16 14:22:04,085 - INFO - Processing file: json_data_114.txt
+2024-08-16 14:22:04,087 - INFO - Processing file: json_data_115.txt
+2024-08-16 14:22:04,089 - INFO - Processing file: json_data_116.txt
+2024-08-16 14:22:04,090 - INFO - Processing file: json_data_117.txt
+2024-08-16 14:22:04,092 - INFO - Processing file: json_data_118.txt
+2024-08-16 14:22:04,095 - INFO - Processing file: json_data_119.txt
+2024-08-16 14:22:04,097 - INFO - Processing file: json_data_12.txt
+2024-08-16 14:22:04,099 - INFO - Processing file: json_data_120.txt
+2024-08-16 14:22:04,101 - INFO - Processing file: json_data_121.txt
+2024-08-16 14:22:04,101 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:04,101 - ERROR - Error decoding JSON in file json_data_121.txt. Skipping...
+2024-08-16 14:22:04,101 - WARNING - No valid JSON data found in file json_data_121.txt
+2024-08-16 14:22:04,101 - INFO - Processing file: json_data_122.txt
+2024-08-16 14:22:04,101 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:04,101 - ERROR - Error decoding JSON in file json_data_122.txt. Skipping...
+2024-08-16 14:22:04,101 - WARNING - No valid JSON data found in file json_data_122.txt
+2024-08-16 14:22:04,102 - INFO - Processing file: json_data_123.txt
+2024-08-16 14:22:04,102 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:04,102 - ERROR - Error decoding JSON in file json_data_123.txt. Skipping...
+2024-08-16 14:22:04,102 - WARNING - No valid JSON data found in file json_data_123.txt
+2024-08-16 14:22:04,102 - INFO - Processing file: json_data_124.txt
+2024-08-16 14:22:04,104 - INFO - Processing file: json_data_125.txt
+2024-08-16 14:22:04,105 - INFO - Processing file: json_data_126.txt
+2024-08-16 14:22:04,107 - INFO - Processing file: json_data_127.txt
+2024-08-16 14:22:04,109 - INFO - Processing file: json_data_128.txt
+2024-08-16 14:22:04,115 - INFO - Processing file: json_data_129.txt
+2024-08-16 14:22:04,117 - INFO - Processing file: json_data_13.txt
+2024-08-16 14:22:04,119 - INFO - Processing file: json_data_130.txt
+2024-08-16 14:22:04,121 - INFO - Processing file: json_data_131.txt
+2024-08-16 14:22:04,123 - INFO - Processing file: json_data_132.txt
+2024-08-16 14:22:04,125 - INFO - Processing file: json_data_133.txt
+2024-08-16 14:22:04,128 - INFO - Processing file: json_data_134.txt
+2024-08-16 14:22:04,130 - INFO - Processing file: json_data_135.txt
+2024-08-16 14:22:04,131 - INFO - Processing file: json_data_136.txt
+2024-08-16 14:22:04,133 - INFO - Processing file: json_data_137.txt
+2024-08-16 14:22:04,135 - INFO - Processing file: json_data_138.txt
+2024-08-16 14:22:04,136 - INFO - Processing file: json_data_139.txt
+2024-08-16 14:22:04,138 - INFO - Processing file: json_data_14.txt
+2024-08-16 14:22:04,140 - INFO - Processing file: json_data_140.txt
+2024-08-16 14:22:04,142 - INFO - Processing file: json_data_141.txt
+2024-08-16 14:22:04,144 - INFO - Processing file: json_data_142.txt
+2024-08-16 14:22:04,146 - INFO - Processing file: json_data_143.txt
+2024-08-16 14:22:04,148 - INFO - Processing file: json_data_144.txt
+2024-08-16 14:22:04,149 - INFO - Processing file: json_data_145.txt
+2024-08-16 14:22:04,150 - INFO - Processing file: json_data_146.txt
+2024-08-16 14:22:04,152 - INFO - Processing file: json_data_147.txt
+2024-08-16 14:22:04,153 - INFO - Processing file: json_data_148.txt
+2024-08-16 14:22:04,155 - INFO - Processing file: json_data_149.txt
+2024-08-16 14:22:04,157 - INFO - Processing file: json_data_15.txt
+2024-08-16 14:22:04,161 - INFO - Processing file: json_data_150.txt
+2024-08-16 14:22:04,163 - INFO - Processing file: json_data_151.txt
+2024-08-16 14:22:04,165 - INFO - Processing file: json_data_152.txt
+2024-08-16 14:22:04,166 - INFO - Processing file: json_data_153.txt
+2024-08-16 14:22:04,168 - INFO - Processing file: json_data_154.txt
+2024-08-16 14:22:04,170 - INFO - Processing file: json_data_155.txt
+2024-08-16 14:22:04,172 - INFO - Processing file: json_data_156.txt
+2024-08-16 14:22:04,173 - INFO - Processing file: json_data_157.txt
+2024-08-16 14:22:04,176 - INFO - Processing file: json_data_158.txt
+2024-08-16 14:22:04,181 - INFO - Processing file: json_data_159.txt
+2024-08-16 14:22:04,183 - INFO - Processing file: json_data_16.txt
+2024-08-16 14:22:04,185 - INFO - Processing file: json_data_160.txt
+2024-08-16 14:22:04,188 - INFO - Processing file: json_data_161.txt
+2024-08-16 14:22:04,191 - INFO - Processing file: json_data_162.txt
+2024-08-16 14:22:04,193 - INFO - Processing file: json_data_163.txt
+2024-08-16 14:22:04,195 - INFO - Processing file: json_data_164.txt
+2024-08-16 14:22:04,196 - INFO - Processing file: json_data_165.txt
+2024-08-16 14:22:04,198 - INFO - Processing file: json_data_166.txt
+2024-08-16 14:22:04,200 - INFO - Processing file: json_data_167.txt
+2024-08-16 14:22:04,201 - INFO - Processing file: json_data_168.txt
+2024-08-16 14:22:04,203 - INFO - Processing file: json_data_169.txt
+2024-08-16 14:22:04,205 - INFO - Processing file: json_data_17.txt
+2024-08-16 14:22:04,206 - INFO - Processing file: json_data_170.txt
+2024-08-16 14:22:04,208 - INFO - Processing file: json_data_171.txt
+2024-08-16 14:22:04,211 - INFO - Processing file: json_data_172.txt
+2024-08-16 14:22:04,213 - INFO - Processing file: json_data_173.txt
+2024-08-16 14:22:04,214 - INFO - Processing file: json_data_174.txt
+2024-08-16 14:22:04,215 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:04,215 - ERROR - Error decoding JSON in file json_data_174.txt. Skipping...
+2024-08-16 14:22:04,215 - WARNING - No valid JSON data found in file json_data_174.txt
+2024-08-16 14:22:04,215 - INFO - Processing file: json_data_175.txt
+2024-08-16 14:22:04,215 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:04,215 - ERROR - Error decoding JSON in file json_data_175.txt. Skipping...
+2024-08-16 14:22:04,215 - WARNING - No valid JSON data found in file json_data_175.txt
+2024-08-16 14:22:04,215 - INFO - Processing file: json_data_176.txt
+2024-08-16 14:22:04,217 - INFO - Processing file: json_data_177.txt
+2024-08-16 14:22:04,219 - INFO - Processing file: json_data_178.txt
+2024-08-16 14:22:04,221 - INFO - Processing file: json_data_179.txt
+2024-08-16 14:22:04,223 - INFO - Processing file: json_data_18.txt
+2024-08-16 14:22:04,224 - INFO - Processing file: json_data_180.txt
+2024-08-16 14:22:04,228 - INFO - Processing file: json_data_181.txt
+2024-08-16 14:22:04,230 - INFO - Processing file: json_data_19.txt
+2024-08-16 14:22:04,231 - INFO - Processing file: json_data_2.txt
+2024-08-16 14:22:04,233 - INFO - Processing file: json_data_20.txt
+2024-08-16 14:22:04,235 - INFO - Processing file: json_data_21.txt
+2024-08-16 14:22:04,237 - INFO - Processing file: json_data_22.txt
+2024-08-16 14:22:04,239 - INFO - Processing file: json_data_23.txt
+2024-08-16 14:22:04,241 - INFO - Processing file: json_data_24.txt
+2024-08-16 14:22:04,246 - INFO - Processing file: json_data_25.txt
+2024-08-16 14:22:04,249 - INFO - Processing file: json_data_26.txt
+2024-08-16 14:22:04,252 - INFO - Processing file: json_data_27.txt
+2024-08-16 14:22:04,254 - INFO - Processing file: json_data_28.txt
+2024-08-16 14:22:04,257 - INFO - Processing file: json_data_29.txt
+2024-08-16 14:22:04,259 - INFO - Processing file: json_data_3.txt
+2024-08-16 14:22:04,261 - INFO - Processing file: json_data_30.txt
+2024-08-16 14:22:04,263 - INFO - Processing file: json_data_31.txt
+2024-08-16 14:22:04,265 - INFO - Processing file: json_data_32.txt
+2024-08-16 14:22:04,267 - INFO - Processing file: json_data_33.txt
+2024-08-16 14:22:04,268 - INFO - Processing file: json_data_34.txt
+2024-08-16 14:22:04,270 - INFO - Processing file: json_data_35.txt
+2024-08-16 14:22:04,272 - INFO - Processing file: json_data_36.txt
+2024-08-16 14:22:04,273 - INFO - Processing file: json_data_37.txt
+2024-08-16 14:22:04,276 - INFO - Processing file: json_data_38.txt
+2024-08-16 14:22:04,278 - INFO - Processing file: json_data_39.txt
+2024-08-16 14:22:04,280 - INFO - Processing file: json_data_4.txt
+2024-08-16 14:22:04,281 - INFO - Processing file: json_data_40.txt
+2024-08-16 14:22:04,283 - INFO - Processing file: json_data_41.txt
+2024-08-16 14:22:04,285 - INFO - Processing file: json_data_42.txt
+2024-08-16 14:22:04,287 - INFO - Processing file: json_data_43.txt
+2024-08-16 14:22:04,289 - INFO - Processing file: json_data_44.txt
+2024-08-16 14:22:04,291 - INFO - Processing file: json_data_45.txt
+2024-08-16 14:22:04,293 - INFO - Processing file: json_data_46.txt
+2024-08-16 14:22:04,295 - INFO - Processing file: json_data_47.txt
+2024-08-16 14:22:04,297 - INFO - Processing file: json_data_48.txt
+2024-08-16 14:22:04,299 - INFO - Processing file: json_data_49.txt
+2024-08-16 14:22:04,301 - INFO - Processing file: json_data_5.txt
+2024-08-16 14:22:04,303 - INFO - Processing file: json_data_50.txt
+2024-08-16 14:22:04,305 - INFO - Processing file: json_data_51.txt
+2024-08-16 14:22:04,307 - INFO - Processing file: json_data_52.txt
+2024-08-16 14:22:04,309 - INFO - Processing file: json_data_53.txt
+2024-08-16 14:22:04,313 - INFO - Processing file: json_data_54.txt
+2024-08-16 14:22:04,315 - INFO - Processing file: json_data_55.txt
+2024-08-16 14:22:04,318 - INFO - Processing file: json_data_56.txt
+2024-08-16 14:22:04,320 - INFO - Processing file: json_data_57.txt
+2024-08-16 14:22:04,322 - INFO - Processing file: json_data_58.txt
+2024-08-16 14:22:04,324 - INFO - Processing file: json_data_59.txt
+2024-08-16 14:22:04,326 - INFO - Processing file: json_data_6.txt
+2024-08-16 14:22:04,328 - INFO - Processing file: json_data_60.txt
+2024-08-16 14:22:04,330 - INFO - Processing file: json_data_61.txt
+2024-08-16 14:22:04,331 - INFO - Processing file: json_data_62.txt
+2024-08-16 14:22:04,333 - INFO - Processing file: json_data_63.txt
+2024-08-16 14:22:04,335 - INFO - Processing file: json_data_64.txt
+2024-08-16 14:22:04,337 - INFO - Processing file: json_data_65.txt
+2024-08-16 14:22:04,338 - INFO - Processing file: json_data_66.txt
+2024-08-16 14:22:04,340 - INFO - Processing file: json_data_67.txt
+2024-08-16 14:22:04,342 - INFO - Processing file: json_data_68.txt
+2024-08-16 14:22:04,344 - INFO - Processing file: json_data_69.txt
+2024-08-16 14:22:04,345 - INFO - Processing file: json_data_7.txt
+2024-08-16 14:22:04,347 - INFO - Processing file: json_data_70.txt
+2024-08-16 14:22:04,349 - INFO - Processing file: json_data_71.txt
+2024-08-16 14:22:04,351 - INFO - Processing file: json_data_72.txt
+2024-08-16 14:22:04,352 - INFO - Processing file: json_data_73.txt
+2024-08-16 14:22:04,354 - INFO - Processing file: json_data_74.txt
+2024-08-16 14:22:04,356 - INFO - Processing file: json_data_75.txt
+2024-08-16 14:22:04,358 - INFO - Processing file: json_data_76.txt
+2024-08-16 14:22:04,360 - INFO - Processing file: json_data_77.txt
+2024-08-16 14:22:04,362 - INFO - Processing file: json_data_78.txt
+2024-08-16 14:22:04,363 - INFO - Processing file: json_data_79.txt
+2024-08-16 14:22:04,365 - INFO - Processing file: json_data_8.txt
+2024-08-16 14:22:04,367 - INFO - Processing file: json_data_80.txt
+2024-08-16 14:22:04,369 - INFO - Processing file: json_data_81.txt
+2024-08-16 14:22:04,370 - INFO - Processing file: json_data_82.txt
+2024-08-16 14:22:04,372 - INFO - Processing file: json_data_83.txt
+2024-08-16 14:22:04,374 - INFO - Processing file: json_data_84.txt
+2024-08-16 14:22:04,377 - INFO - Processing file: json_data_85.txt
+2024-08-16 14:22:04,380 - INFO - Processing file: json_data_86.txt
+2024-08-16 14:22:04,382 - INFO - Processing file: json_data_87.txt
+2024-08-16 14:22:04,384 - INFO - Processing file: json_data_88.txt
+2024-08-16 14:22:04,386 - INFO - Processing file: json_data_89.txt
+2024-08-16 14:22:04,388 - INFO - Processing file: json_data_9.txt
+2024-08-16 14:22:04,390 - INFO - Processing file: json_data_90.txt
+2024-08-16 14:22:04,392 - INFO - Processing file: json_data_91.txt
+2024-08-16 14:22:04,393 - INFO - Processing file: json_data_92.txt
+2024-08-16 14:22:04,395 - INFO - Processing file: json_data_93.txt
+2024-08-16 14:22:04,397 - INFO - Processing file: json_data_94.txt
+2024-08-16 14:22:04,399 - INFO - Processing file: json_data_95.txt
+2024-08-16 14:22:04,400 - INFO - Processing file: json_data_96.txt
+2024-08-16 14:22:04,402 - INFO - Processing file: json_data_97.txt
+2024-08-16 14:22:04,403 - INFO - Processing file: json_data_98.txt
+2024-08-16 14:22:04,404 - INFO - Processing file: json_data_99.txt
+2024-08-16 14:22:04,991 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text_Ch Name_DL Type_Address.xlsx
+2024-08-16 14:22:05,020 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text__Ch Name_DL Type.xlsx
+2024-08-16 14:22:05,040 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text_Ch Name_DL Type_Address Type.xlsx
+2024-08-16 14:22:05,062 - INFO - Successfully saved combined data to combined__Submitted on_reference_code_text_Ch Name_DL Type.xlsx
+2024-08-16 14:22:05,092 - INFO - Successfully saved combined data to combined_Submitted on_Ch Name_DL Type_Address_Address Type.xlsx
+2024-08-16 14:22:05,116 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text_Ch Name_DL Type_Address.xlsx
+2024-08-16 14:22:33,569 - INFO - Script started.
+2024-08-16 14:22:33,570 - INFO - Processing file: json_data_1.txt
+2024-08-16 14:22:33,573 - INFO - Processing file: json_data_10.txt
+2024-08-16 14:22:33,576 - INFO - Processing file: json_data_100.txt
+2024-08-16 14:22:33,579 - INFO - Processing file: json_data_101.txt
+2024-08-16 14:22:33,581 - INFO - Processing file: json_data_102.txt
+2024-08-16 14:22:33,584 - INFO - Processing file: json_data_103.txt
+2024-08-16 14:22:33,586 - INFO - Processing file: json_data_104.txt
+2024-08-16 14:22:33,589 - INFO - Processing file: json_data_105.txt
+2024-08-16 14:22:33,591 - INFO - Processing file: json_data_106.txt
+2024-08-16 14:22:33,593 - INFO - Processing file: json_data_107.txt
+2024-08-16 14:22:33,595 - INFO - Processing file: json_data_108.txt
+2024-08-16 14:22:33,597 - INFO - Processing file: json_data_109.txt
+2024-08-16 14:22:33,599 - INFO - Processing file: json_data_11.txt
+2024-08-16 14:22:33,601 - INFO - Processing file: json_data_110.txt
+2024-08-16 14:22:33,603 - INFO - Processing file: json_data_111.txt
+2024-08-16 14:22:33,605 - INFO - Processing file: json_data_112.txt
+2024-08-16 14:22:33,607 - INFO - Processing file: json_data_113.txt
+2024-08-16 14:22:33,609 - INFO - Processing file: json_data_114.txt
+2024-08-16 14:22:33,611 - INFO - Processing file: json_data_115.txt
+2024-08-16 14:22:33,613 - INFO - Processing file: json_data_116.txt
+2024-08-16 14:22:33,615 - INFO - Processing file: json_data_117.txt
+2024-08-16 14:22:33,617 - INFO - Processing file: json_data_118.txt
+2024-08-16 14:22:33,619 - INFO - Processing file: json_data_119.txt
+2024-08-16 14:22:33,621 - INFO - Processing file: json_data_12.txt
+2024-08-16 14:22:33,622 - INFO - Processing file: json_data_120.txt
+2024-08-16 14:22:33,624 - INFO - Processing file: json_data_121.txt
+2024-08-16 14:22:33,625 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:33,625 - ERROR - Error decoding JSON in file json_data_121.txt. Skipping...
+2024-08-16 14:22:33,625 - WARNING - No valid JSON data found in file json_data_121.txt
+2024-08-16 14:22:33,625 - INFO - Processing file: json_data_122.txt
+2024-08-16 14:22:33,625 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:33,625 - ERROR - Error decoding JSON in file json_data_122.txt. Skipping...
+2024-08-16 14:22:33,625 - WARNING - No valid JSON data found in file json_data_122.txt
+2024-08-16 14:22:33,625 - INFO - Processing file: json_data_123.txt
+2024-08-16 14:22:33,626 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:33,626 - ERROR - Error decoding JSON in file json_data_123.txt. Skipping...
+2024-08-16 14:22:33,626 - WARNING - No valid JSON data found in file json_data_123.txt
+2024-08-16 14:22:33,626 - INFO - Processing file: json_data_124.txt
+2024-08-16 14:22:33,628 - INFO - Processing file: json_data_125.txt
+2024-08-16 14:22:33,630 - INFO - Processing file: json_data_126.txt
+2024-08-16 14:22:33,632 - INFO - Processing file: json_data_127.txt
+2024-08-16 14:22:33,634 - INFO - Processing file: json_data_128.txt
+2024-08-16 14:22:33,635 - INFO - Processing file: json_data_129.txt
+2024-08-16 14:22:33,637 - INFO - Processing file: json_data_13.txt
+2024-08-16 14:22:33,640 - INFO - Processing file: json_data_130.txt
+2024-08-16 14:22:33,643 - INFO - Processing file: json_data_131.txt
+2024-08-16 14:22:33,645 - INFO - Processing file: json_data_132.txt
+2024-08-16 14:22:33,647 - INFO - Processing file: json_data_133.txt
+2024-08-16 14:22:33,650 - INFO - Processing file: json_data_134.txt
+2024-08-16 14:22:33,652 - INFO - Processing file: json_data_135.txt
+2024-08-16 14:22:33,653 - INFO - Processing file: json_data_136.txt
+2024-08-16 14:22:33,655 - INFO - Processing file: json_data_137.txt
+2024-08-16 14:22:33,657 - INFO - Processing file: json_data_138.txt
+2024-08-16 14:22:33,659 - INFO - Processing file: json_data_139.txt
+2024-08-16 14:22:33,661 - INFO - Processing file: json_data_14.txt
+2024-08-16 14:22:33,663 - INFO - Processing file: json_data_140.txt
+2024-08-16 14:22:33,665 - INFO - Processing file: json_data_141.txt
+2024-08-16 14:22:33,667 - INFO - Processing file: json_data_142.txt
+2024-08-16 14:22:33,669 - INFO - Processing file: json_data_143.txt
+2024-08-16 14:22:33,671 - INFO - Processing file: json_data_144.txt
+2024-08-16 14:22:33,673 - INFO - Processing file: json_data_145.txt
+2024-08-16 14:22:33,675 - INFO - Processing file: json_data_146.txt
+2024-08-16 14:22:33,678 - INFO - Processing file: json_data_147.txt
+2024-08-16 14:22:33,680 - INFO - Processing file: json_data_148.txt
+2024-08-16 14:22:33,682 - INFO - Processing file: json_data_149.txt
+2024-08-16 14:22:33,684 - INFO - Processing file: json_data_15.txt
+2024-08-16 14:22:33,686 - INFO - Processing file: json_data_150.txt
+2024-08-16 14:22:33,688 - INFO - Processing file: json_data_151.txt
+2024-08-16 14:22:33,690 - INFO - Processing file: json_data_152.txt
+2024-08-16 14:22:33,692 - INFO - Processing file: json_data_153.txt
+2024-08-16 14:22:33,694 - INFO - Processing file: json_data_154.txt
+2024-08-16 14:22:33,696 - INFO - Processing file: json_data_155.txt
+2024-08-16 14:22:33,698 - INFO - Processing file: json_data_156.txt
+2024-08-16 14:22:33,699 - INFO - Processing file: json_data_157.txt
+2024-08-16 14:22:33,701 - INFO - Processing file: json_data_158.txt
+2024-08-16 14:22:33,703 - INFO - Processing file: json_data_159.txt
+2024-08-16 14:22:33,705 - INFO - Processing file: json_data_16.txt
+2024-08-16 14:22:33,708 - INFO - Processing file: json_data_160.txt
+2024-08-16 14:22:33,711 - INFO - Processing file: json_data_161.txt
+2024-08-16 14:22:33,713 - INFO - Processing file: json_data_162.txt
+2024-08-16 14:22:33,715 - INFO - Processing file: json_data_163.txt
+2024-08-16 14:22:33,717 - INFO - Processing file: json_data_164.txt
+2024-08-16 14:22:33,720 - INFO - Processing file: json_data_165.txt
+2024-08-16 14:22:33,721 - INFO - Processing file: json_data_166.txt
+2024-08-16 14:22:33,723 - INFO - Processing file: json_data_167.txt
+2024-08-16 14:22:33,725 - INFO - Processing file: json_data_168.txt
+2024-08-16 14:22:33,727 - INFO - Processing file: json_data_169.txt
+2024-08-16 14:22:33,729 - INFO - Processing file: json_data_17.txt
+2024-08-16 14:22:33,731 - INFO - Processing file: json_data_170.txt
+2024-08-16 14:22:33,733 - INFO - Processing file: json_data_171.txt
+2024-08-16 14:22:33,734 - INFO - Processing file: json_data_172.txt
+2024-08-16 14:22:33,736 - INFO - Processing file: json_data_173.txt
+2024-08-16 14:22:33,738 - INFO - Processing file: json_data_174.txt
+2024-08-16 14:22:33,739 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:33,739 - ERROR - Error decoding JSON in file json_data_174.txt. Skipping...
+2024-08-16 14:22:33,739 - WARNING - No valid JSON data found in file json_data_174.txt
+2024-08-16 14:22:33,739 - INFO - Processing file: json_data_175.txt
+2024-08-16 14:22:33,739 - WARNING - JSON format issue detected: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2024-08-16 14:22:33,739 - ERROR - Error decoding JSON in file json_data_175.txt. Skipping...
+2024-08-16 14:22:33,739 - WARNING - No valid JSON data found in file json_data_175.txt
+2024-08-16 14:22:33,739 - INFO - Processing file: json_data_176.txt
+2024-08-16 14:22:33,741 - INFO - Processing file: json_data_177.txt
+2024-08-16 14:22:33,743 - INFO - Processing file: json_data_178.txt
+2024-08-16 14:22:33,745 - INFO - Processing file: json_data_179.txt
+2024-08-16 14:22:33,747 - INFO - Processing file: json_data_18.txt
+2024-08-16 14:22:33,749 - INFO - Processing file: json_data_180.txt
+2024-08-16 14:22:33,750 - INFO - Processing file: json_data_181.txt
+2024-08-16 14:22:33,752 - INFO - Processing file: json_data_19.txt
+2024-08-16 14:22:33,754 - INFO - Processing file: json_data_2.txt
+2024-08-16 14:22:33,756 - INFO - Processing file: json_data_20.txt
+2024-08-16 14:22:33,758 - INFO - Processing file: json_data_21.txt
+2024-08-16 14:22:33,760 - INFO - Processing file: json_data_22.txt
+2024-08-16 14:22:33,762 - INFO - Processing file: json_data_23.txt
+2024-08-16 14:22:33,764 - INFO - Processing file: json_data_24.txt
+2024-08-16 14:22:33,766 - INFO - Processing file: json_data_25.txt
+2024-08-16 14:22:33,768 - INFO - Processing file: json_data_26.txt
+2024-08-16 14:22:33,770 - INFO - Processing file: json_data_27.txt
+2024-08-16 14:22:33,772 - INFO - Processing file: json_data_28.txt
+2024-08-16 14:22:33,775 - INFO - Processing file: json_data_29.txt
+2024-08-16 14:22:33,777 - INFO - Processing file: json_data_3.txt
+2024-08-16 14:22:33,779 - INFO - Processing file: json_data_30.txt
+2024-08-16 14:22:33,781 - INFO - Processing file: json_data_31.txt
+2024-08-16 14:22:33,783 - INFO - Processing file: json_data_32.txt
+2024-08-16 14:22:33,785 - INFO - Processing file: json_data_33.txt
+2024-08-16 14:22:33,787 - INFO - Processing file: json_data_34.txt
+2024-08-16 14:22:33,789 - INFO - Processing file: json_data_35.txt
+2024-08-16 14:22:33,791 - INFO - Processing file: json_data_36.txt
+2024-08-16 14:22:33,793 - INFO - Processing file: json_data_37.txt
+2024-08-16 14:22:33,795 - INFO - Processing file: json_data_38.txt
+2024-08-16 14:22:33,797 - INFO - Processing file: json_data_39.txt
+2024-08-16 14:22:33,799 - INFO - Processing file: json_data_4.txt
+2024-08-16 14:22:33,801 - INFO - Processing file: json_data_40.txt
+2024-08-16 14:22:33,803 - INFO - Processing file: json_data_41.txt
+2024-08-16 14:22:33,804 - INFO - Processing file: json_data_42.txt
+2024-08-16 14:22:33,806 - INFO - Processing file: json_data_43.txt
+2024-08-16 14:22:33,808 - INFO - Processing file: json_data_44.txt
+2024-08-16 14:22:33,811 - INFO - Processing file: json_data_45.txt
+2024-08-16 14:22:33,813 - INFO - Processing file: json_data_46.txt
+2024-08-16 14:22:33,815 - INFO - Processing file: json_data_47.txt
+2024-08-16 14:22:33,817 - INFO - Processing file: json_data_48.txt
+2024-08-16 14:22:33,819 - INFO - Processing file: json_data_49.txt
+2024-08-16 14:22:33,821 - INFO - Processing file: json_data_5.txt
+2024-08-16 14:22:33,823 - INFO - Processing file: json_data_50.txt
+2024-08-16 14:22:33,824 - INFO - Processing file: json_data_51.txt
+2024-08-16 14:22:33,826 - INFO - Processing file: json_data_52.txt
+2024-08-16 14:22:33,828 - INFO - Processing file: json_data_53.txt
+2024-08-16 14:22:33,830 - INFO - Processing file: json_data_54.txt
+2024-08-16 14:22:33,832 - INFO - Processing file: json_data_55.txt
+2024-08-16 14:22:33,834 - INFO - Processing file: json_data_56.txt
+2024-08-16 14:22:33,836 - INFO - Processing file: json_data_57.txt
+2024-08-16 14:22:33,839 - INFO - Processing file: json_data_58.txt
+2024-08-16 14:22:33,842 - INFO - Processing file: json_data_59.txt
+2024-08-16 14:22:33,844 - INFO - Processing file: json_data_6.txt
+2024-08-16 14:22:33,846 - INFO - Processing file: json_data_60.txt
+2024-08-16 14:22:33,849 - INFO - Processing file: json_data_61.txt
+2024-08-16 14:22:33,851 - INFO - Processing file: json_data_62.txt
+2024-08-16 14:22:33,854 - INFO - Processing file: json_data_63.txt
+2024-08-16 14:22:33,856 - INFO - Processing file: json_data_64.txt
+2024-08-16 14:22:33,858 - INFO - Processing file: json_data_65.txt
+2024-08-16 14:22:33,860 - INFO - Processing file: json_data_66.txt
+2024-08-16 14:22:33,862 - INFO - Processing file: json_data_67.txt
+2024-08-16 14:22:33,864 - INFO - Processing file: json_data_68.txt
+2024-08-16 14:22:33,866 - INFO - Processing file: json_data_69.txt
+2024-08-16 14:22:33,868 - INFO - Processing file: json_data_7.txt
+2024-08-16 14:22:33,869 - INFO - Processing file: json_data_70.txt
+2024-08-16 14:22:33,871 - INFO - Processing file: json_data_71.txt
+2024-08-16 14:22:33,873 - INFO - Processing file: json_data_72.txt
+2024-08-16 14:22:33,875 - INFO - Processing file: json_data_73.txt
+2024-08-16 14:22:33,877 - INFO - Processing file: json_data_74.txt
+2024-08-16 14:22:33,879 - INFO - Processing file: json_data_75.txt
+2024-08-16 14:22:33,881 - INFO - Processing file: json_data_76.txt
+2024-08-16 14:22:33,883 - INFO - Processing file: json_data_77.txt
+2024-08-16 14:22:33,885 - INFO - Processing file: json_data_78.txt
+2024-08-16 14:22:33,887 - INFO - Processing file: json_data_79.txt
+2024-08-16 14:22:33,888 - INFO - Processing file: json_data_8.txt
+2024-08-16 14:22:33,890 - INFO - Processing file: json_data_80.txt
+2024-08-16 14:22:33,892 - INFO - Processing file: json_data_81.txt
+2024-08-16 14:22:33,894 - INFO - Processing file: json_data_82.txt
+2024-08-16 14:22:33,896 - INFO - Processing file: json_data_83.txt
+2024-08-16 14:22:33,898 - INFO - Processing file: json_data_84.txt
+2024-08-16 14:22:33,900 - INFO - Processing file: json_data_85.txt
+2024-08-16 14:22:33,902 - INFO - Processing file: json_data_86.txt
+2024-08-16 14:22:33,904 - INFO - Processing file: json_data_87.txt
+2024-08-16 14:22:33,906 - INFO - Processing file: json_data_88.txt
+2024-08-16 14:22:33,909 - INFO - Processing file: json_data_89.txt
+2024-08-16 14:22:33,911 - INFO - Processing file: json_data_9.txt
+2024-08-16 14:22:33,913 - INFO - Processing file: json_data_90.txt
+2024-08-16 14:22:33,916 - INFO - Processing file: json_data_91.txt
+2024-08-16 14:22:33,918 - INFO - Processing file: json_data_92.txt
+2024-08-16 14:22:33,920 - INFO - Processing file: json_data_93.txt
+2024-08-16 14:22:33,922 - INFO - Processing file: json_data_94.txt
+2024-08-16 14:22:33,924 - INFO - Processing file: json_data_95.txt
+2024-08-16 14:22:33,925 - INFO - Processing file: json_data_96.txt
+2024-08-16 14:22:33,927 - INFO - Processing file: json_data_97.txt
+2024-08-16 14:22:33,928 - INFO - Processing file: json_data_98.txt
+2024-08-16 14:22:33,930 - INFO - Processing file: json_data_99.txt
+2024-08-16 14:22:34,595 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text_Ch Name_DL Type_Address.xlsx
+2024-08-16 14:22:34,629 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text__Ch Name_DL Type.xlsx
+2024-08-16 14:22:34,653 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text_Ch Name_DL Type_Address Type.xlsx
+2024-08-16 14:22:34,673 - INFO - Successfully saved combined data to combined__Submitted on_reference_code_text_Ch Name_DL Type.xlsx
+2024-08-16 14:22:34,700 - INFO - Successfully saved combined data to combined_Submitted on_Ch Name_DL Type_Address_Address Type.xlsx
+2024-08-16 14:22:34,724 - INFO - Successfully saved combined data to combined_Submitted on_reference_code_text_Ch Name_DL Type_Address.xlsx
+2024-08-16 14:22:34,742 - INFO - Successfully saved combined data to combined_reference_code_type_status_sub_status_client_availability.xlsx
+2024-08-16 14:22:34,759 - INFO - Successfully saved combined data to combined_reference_code_type_status_sub_status_client_availability.xlsx
+2024-08-16 14:22:34,759 - INFO - Conversion and combination complete!

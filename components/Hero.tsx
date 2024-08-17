@@ -1,21 +1,33 @@
 import React from 'react'
+import Image from 'next/image'
 
 const Hero = () => {
   return (
-    <div
-  className="hero min-h-screen">
-  <div className="hero-overlay bg-opacity-60"></div>
-  <div className="hero-content text-neutral-content text-center">
-    <div className="max-w-md">
-      <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
-      <p className="mb-5">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
-      </p>
-      <button className="btn btn-primary">Get Started</button>
+    <div className="h-full p-10 flex justify-center items-center">
+
+      <div className='flex flex-wrap justify-center w-10/12 '>
+      <Image 
+  
+        src="/SHOE.jpeg"
+        width={700}
+        height={700}
+        alt="Picture of the author"
+      />
+
+      <div className='flex items-center justify-center'>
+        <div className='flex-col items-center'>
+            <div className='text-4xl text-center md:text-5xl lg:text-6xl w-full'>
+                <p >Step into Style,</p>
+                <p >Anytime, Anywhere</p></div>
+            <div className=' flex justify-center p-4'><button className='btn btn primary bg-blue-400 text-white'>Get yours Now !</button></div>
+        </div>
+      </div>
+  
+
+      </div>
+ 
+
     </div>
-  </div>
-</div>
   )
 }
 

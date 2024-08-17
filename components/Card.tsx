@@ -2,7 +2,7 @@ import React from 'react'
 
 const Card = () => {
   return (
-    <div className="card w-64 shadow-xl p-2">
+    <div className="card w-64 shadow-xl p-2 pb-2">
   <figure>
     <img
       src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"

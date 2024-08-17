@@ -3,8 +3,8 @@ import Card from './Card';
 
 const Filter = () => {
   return (
-    <div className='w-10/12 mt-20 m-auto p-2 flex  '>
-    <div className=' rounded-md border-2 w-[15rem]  p-4 max-h-[500px] min-w-[200px] mr-4 '>
+    <div className='w-10/12 mt-20 m-auto p-2  flex justify-center '>
+    <div className=' hidden  md:block lg:block rounded-md border-2 w-[15rem]  p-4 max-h-[500px] min-w-[200px] mr-4 '>
       <h1 className='text-2xl font-bold mb-4'>Brand</h1>
       <label className='p-2' ><input type="radio" name="brand" value="Nike" />Nike</label><br></br>
       <label className='p-2'><input type="radio" name="brand" value="Jordan" />Jordan</label><br></br>
@@ -22,7 +22,7 @@ const Filter = () => {
       <label className='p-2'><input type="radio" name="type" value="New Balance" />Corporate</label><br></br>
     </div>
 
-    <div className='flex flex-wrap '>
+    <div className='flex flex-wrap flex justify-center lg:justify-start'>
     <Card/>
    <Card/>
    <Card/>

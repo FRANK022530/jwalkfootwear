@@ -18,7 +18,7 @@ const Navigation = () => {
             <li className='p-4'>Reviews</li>
         </ul>
 
-        <div className='flex md:hidden lg:hidden '>
+        <div className='flex border-solid border-2 max-w-10 max-h-10 md:hidden lg:hidden '>
         <Image
         src="/menu.jpg"
         width={50}

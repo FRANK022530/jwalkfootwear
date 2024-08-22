@@ -1,12 +1,13 @@
 const express = require('express');
-const app = express();
 const mongoose = require('mongoose');
+require('dotenv').config(); // Load environment variables
 
-const mongouri = "jwalk.2de0t.mongodb.net:27017";
+const app = express();
+const PORT = process.env.PORT
+const MONGODB_URL = process.env.MONGODB_URL
 
 
 
-const port = 4000;
 const productroutes = require('./routes/products');
 
 // Middleware
@@ -16,16 +17,34 @@ app.use((req, res, next) => {
     next();
 });
 
+mongoose.connect(MONGODB_URL, {})
+.then(() => {
+  console.log('Connected to MongoDB');
+  
+      app.listen(PORT, () => {
+        console.log(`Server running at http://localhost:${PORT}`);
+      });
+
+      })
+.catch((err) => {
+  console.error('Failed to connect to MongoDB', err);
+});
+
+
 // Routes
 app.use('/api/products', productroutes);
 
-// Connect to MongoDB and start server
-mongoose.connect(mongouri)
-    .then(() => {
-        app.listen(port, () => {
-            console.log(`Server running at http://localhost:${port}`);
-        });
-    })
-    .catch((error) => {
-        console.log(error);
-    });
+
+
+
+
+
+
+
+
+
+
+
+
+
+

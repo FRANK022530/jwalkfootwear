@@ -9,6 +9,7 @@ const MONGODB_URL = process.env.MONGODB_URL
 
 
 const productroutes = require('./routes/products');
+const customertroutes = require('./routes/customer');
 
 // Middleware
 app.use(express.json()); // Fixed usage of express.json

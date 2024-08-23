@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react'
 import Image from 'next/image'
 
@@ -21,7 +22,7 @@ const Navigation = () => {
             <li className='p-4'>Reviews</li>
         </ul>
 
-        <div className='flex border-solid border-2 max-w-10 max-h-10 md:hidden lg:hidden'
+        <div className='flex border-solid border-2 max-w-10 max-h-10 md:hidden lg:hidden z-index:1'
           onClick={() => setIsClicked(prev => !prev)}
     >
       <Image
@@ -32,7 +33,7 @@ const Navigation = () => {
       />
     </div>
     {isclicked &&
-     <ul className='flex hidden justify-center md:flex lg:justify-end lg:flex lg:mr-8'>
+     <ul className='fixed bg-blue-100 w-screen mt'>
      <li className='p-4'>About Us</li>
      <li className='p-4'>Products</li>
      <li className='p-4'>Reviews</li>

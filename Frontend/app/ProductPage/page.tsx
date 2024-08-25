@@ -2,10 +2,14 @@
 
 import React, { useState, useEffect } from 'react';
 
-const Page = () => {
-  const [data, setData] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+interface Data {
+  message: string;
+}
+
+const Page: React.FC = () => {
+  const [data, setData] = useState<Data | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -14,26 +18,25 @@ const Page = () => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const result = await response.json();
-        setData(result.message); // Update state with the fetched data
-      } catch (error) {
-        setError(error.message); // Update state with the error message
+        const result: Data = await response.json();
+        setData(result);
+      } catch (error: any) {
+        setError(error.message);
       } finally {
-        setLoading(false); // Set loading to false after the data is fetched
+        setLoading(false);
       }
     };
 
     fetchData();
-  }, []); 
+  }, []);
 
-  if (loading) return <p>Loading...</p>; // Show loading message
-  if (error) return <p>Error: {error}</p>; // Show error message if any
+  if (loading) return <p>Loading...</p>;
+  if (error) return <p>Error: {error}</p>;
 
   return (
     <>
       <h1>Fetched Data</h1>
-
-    
+      <p>{data?.message}</p>
     </>
   );
 }

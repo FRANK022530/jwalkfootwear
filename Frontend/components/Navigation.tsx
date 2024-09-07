@@ -8,7 +8,7 @@ const Navigation = () => {
 
   return (
     <div className='p-5 flex justify-between'>
-      <div className=''>
+      <div className='flex justify-end'>
       <Image
         src="/logo.jpg"
         width={100}
@@ -33,11 +33,14 @@ const Navigation = () => {
       />
     </div>
     {isclicked &&
-     <ul className='fixed bg-blue-100 w-screen mt'>
+    <nav className='fixed bg-blue-100 w-6/12'>
+      <button onClick={() => setIsClicked(prev => !prev)}>close</button>
+     <ul >
      <li className='p-4'>About Us</li>
      <li className='p-4'>Products</li>
      <li className='p-4'>Reviews</li>
  </ul>
+ </nav>
  }
     
     </div>
